@@ -13,6 +13,27 @@
         android:theme="@style/Theme.RecylcerViewPeroAhoraTodos"
         tools:targetApi="31">
         <activity
+            android:name=".Splash"
+            android:exported="false" />
+        <activity
+            android:name=".dino6"
+            android:exported="false" />
+        <activity
+            android:name=".dino5"
+            android:exported="false" />
+        <activity
+            android:name=".dino4"
+            android:exported="false" />
+        <activity
+            android:name=".dino3"
+            android:exported="false" />
+        <activity
+            android:name=".dino2"
+            android:exported="false" />
+        <activity
+            android:name=".dino1"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
